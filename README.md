@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew
+- 👋 Hi, I’m Matt
 - 👀 I’m interested in Software Development, Data Science, and AI
 - 🌱 I’m currently learning C++
 - 🍀 I have some experience in Node.js, Unity, PHP, SQL, and Web
