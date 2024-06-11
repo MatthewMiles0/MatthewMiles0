@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in Software Development, Game Development, VR, and AI<!-- - 🌱 I’m currently learning C++ -->
-- 🍀 I have some experience in Node.js, PHP, SQL, C and Web
-- 🌲 I'm proficient in Python, Unity C# and Java
+- 🍀 I have some experience in Node.js, PHP, SQL, Kotlin, C and Web
+- 🌲 I'm proficient in Python, C# (Unity & .NET) and Java
 - 📫 How to reach me: matthewmiles2@gmail.com
